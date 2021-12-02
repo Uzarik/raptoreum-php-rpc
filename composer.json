@@ -1,0 +1,16 @@
+{
+    "name": "krevedko/raptoreum-php-rpc",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Krevedko\\RaptoreumPhpRpc\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Alexandr B (home)",
+            "email": "bognar14@gmail.com"
+        }
+    ],
+    "require": {}
+}
